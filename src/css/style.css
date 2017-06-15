@@ -1,0 +1,145 @@
+html {
+    box-sizing: border-box;
+}
+
+a {
+    color: #fff;
+}
+
+h4 {
+    float: left
+}
+
+h5 {
+    float: left;
+    margin-left: 50%;
+}
+
+
+span:last-child {
+    color: #1f7bbf;
+}
+
+.top-bar {
+    position: relative;
+    background-color: #fff;
+    height: 12vh;
+    width: 100%;
+    box-shadow: 0 3px 2px -3px;
+}
+
+.top-nav {
+    padding-top: 15px;
+}
+
+.top-nav li {
+    list-style: none;
+    float: left;
+}
+
+.top-nav input {
+    margin-left: 30px;
+    margin-top: 3px;
+    width: 192%;
+    height: 43px;
+    border: 1px solid rgba(0, 0, 0, 0.35);
+    padding-left: 14px;
+}
+
+#mdnlogo {
+     height: 50px;
+     width: 230px;
+     margin-left: -18px;
+     width: 185px;
+}
+
+#search-img {
+    position: relative;
+    top: -2px;
+    left: 100%;
+    display: inline;
+    float: right;
+    transform: translateY(-28px) translateX(-10px);
+}
+
+#img-notif {
+    position: relative;
+    top: 11px;
+    left: 1700%;
+}
+
+#img-user {
+    position: relative; 
+    left: 1750%; 
+    top: 10px;
+}
+
+#img-oval {
+    position: relative; 
+    left: 1700%;
+}
+
+.dash-wrapper {
+    width: 100%;
+}
+
+.left-nav {
+    background-color: #1f7bbf;
+    width: 6%;
+    text-align: center;
+    color: white;
+    float: left;
+    height: 88vh;
+}
+
+.left-nav ul li {
+    padding-top: 40px;
+}
+
+.left-nav ul {
+    list-style: none;
+    padding: 0;
+    font-size: small;
+}
+
+.main-dash {
+    float: left;
+    width: 94%;
+    background-color: rgba(0, 0, 0, 0.03);
+    height: 88vh;
+}
+
+.dash-content {
+    padding-left: 70px;
+    padding-top: 15px;
+}
+
+.dash-details {
+    margin: 35px 0 0 30px;
+}
+
+.dash-details select {
+    float: left;
+    width: 30%;
+    height: 40px;
+    margin-left: 20px;
+}
+
+.hr-mod {
+    width: 76%;
+}
+
+.dash-btn {
+    margin-top: 30px;
+}
+
+.btn1 {
+    padding: 12px 30px;
+}
+
+.btn2 {
+    margin-left: 10px;
+    padding: 12px 85px;
+    background-color: #1f7bbf;
+    color: #fff;
+}
