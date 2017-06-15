@@ -22,9 +22,7 @@ span:last-child {
 }
 
 .top-bar {
-    position: relative;
     background-color: #fff;
-    height: 12vh;
     width: 100%;
     -webkit-box-shadow: 0 3px 2px -3px;
     box-shadow: 0 3px 2px -3px;
@@ -82,17 +80,13 @@ span:last-child {
     left: 1700%;
 }
 
-.dash-wrapper {
-    width: 100%;
-}
-
 .left-nav {
     background-color: #1f7bbf;
     width: 6%;
     text-align: center;
     color: white;
     float: left;
-    height: 88vh;
+    height: 100vh;
 }
 
 .left-nav ul li {
@@ -109,7 +103,7 @@ span:last-child {
     float: left;
     width: 94%;
     background-color: rgba(0, 0, 0, 0.03);
-    height: 88vh;
+    height: 100vh;
 }
 
 .dash-content {
@@ -145,4 +139,8 @@ span:last-child {
     padding: 12px 85px;
     background-color: #1f7bbf;
     color: #fff;
+}
+
+.btn1 a {
+    color: grey;
 }

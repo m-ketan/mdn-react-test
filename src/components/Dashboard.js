@@ -7,7 +7,7 @@ class Dashboard extends Component {
             paddingTop: '7px'
         };
 		return (
-		  <div className="dash-wrapper">
+		  <div>
                 <div className="left-nav">
                     <ul>
                         <li>
