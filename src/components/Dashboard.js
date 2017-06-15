@@ -4,7 +4,7 @@ class Dashboard extends Component {
 	render() {
         const pStyle = {
             float: 'left',
-            paddingTop: '7px';
+            paddingTop: '7px'
         };
 		return (
 		  <div className="dash-wrapper">
