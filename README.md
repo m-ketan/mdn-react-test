@@ -1,5 +1,5 @@
 ## How to run
 
-### `npm install`
+###1. `npm install` -To install all dependencies
 
-### `npm test`
+###2. `npm start` -To start the server
