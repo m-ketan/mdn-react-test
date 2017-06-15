@@ -1,5 +1,7 @@
 ## How to run
 
-###1. `npm install` -To install all dependencies
+#### Clone the repository
 
-###2. `npm start` -To start the server
+#### `npm install` - To install all dependencies
+
+#### `npm start` - To start the server
